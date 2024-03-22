@@ -11,7 +11,7 @@ while (exitCondition == false)
     Console.Clear();
     Console.WriteLine("===== Istifadeci yaratma formu ====\n");
     var errorList = new Dictionary<int, string>();
-    var errorEmail = new Dictionary<int, string>();
+    var errorEmail = new Dictionary<int, string>();//Test lkdlaenrl;elkrjc;ljdcr;
     Console.WriteLine("Adi daxil edin");
     string name = Console.ReadLine()!;
     Console.WriteLine("Email daxil edin");
