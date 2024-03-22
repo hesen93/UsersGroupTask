@@ -1,0 +1,15 @@
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\bin\Debug\net8.0\Example2.exe
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\bin\Debug\net8.0\Example2.deps.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\bin\Debug\net8.0\Example2.runtimeconfig.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\bin\Debug\net8.0\Example2.dll
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\bin\Debug\net8.0\Example2.pdb
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.AssemblyInfoInputs.cache
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.AssemblyInfo.cs
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.csproj.CoreCompileInputs.cache
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.sourcelink.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.dll
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\refint\Example2.dll
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.pdb
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\Example2.genruntimeconfig.cache
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\OOP\Example2\obj\Debug\net8.0\ref\Example2.dll
